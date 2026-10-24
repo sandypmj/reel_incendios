@@ -1,0 +1,32 @@
+[
+  {
+    "frase": "Al veintidós de octubre, doscientas treinta y cinco mil novecientas cincuenta y dos personas viven a cinco kilómetros o menos de un incendio forestal probable en el Perú.",
+    "cifra": "235,952",
+    "etiqueta": "Personas a 5 km o menos de incendios probables"
+  },
+  {
+    "frase": "En Huánuco son cincuenta y cuatro mil trescientas sesenta y dos: el seis coma cinco por ciento de su población, la proporción más alta del país.",
+    "cifra": "6.51 %",
+    "etiqueta": "De la población de Huánuco vive cerca del fuego"
+  },
+  {
+    "frase": "En ese mismo radio hay ciento cuarenta y ocho mil ciento treinta y tres edificaciones.",
+    "cifra": "148,133",
+    "etiqueta": "Edificaciones a 5 km o menos"
+  },
+  {
+    "frase": "Y ciento cincuenta y tres establecimientos de salud públicos.",
+    "cifra": "153",
+    "etiqueta": "Establecimientos de salud a 5 km o menos"
+  },
+  {
+    "frase": "De dos mil ciento ochenta y dos centros poblados cercanos, mil seiscientos sesenta y nueve no tienen cobertura 4G garantizada de ningún operador.",
+    "cifra": "1,669",
+    "etiqueta": "Centros poblados cercanos sin 4G garantizado"
+  },
+  {
+    "frase": "Son ciento dieciocho incendios probables, activos o en observación. Son estimaciones satelitales, no cifras oficiales: si ves fuego, avisa a los bomberos o a tu municipalidad.",
+    "cifra": "118",
+    "etiqueta": "Incendios probables activos o en observación"
+  }
+]
